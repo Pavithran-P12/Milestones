@@ -15,10 +15,10 @@ To stay updated in the tech industry and continuously level up my skills — aim
 | ID | Title | Description | Link |
 |----|-------|-------------|------|
 | 1  | GitHub Profile Revamp | Custom Pac-Man contribution graph, auto-updating workflow, social badges | [View Details](./achievements/achievement-1-github-profile.md) |
+| 2  | Custom Domain & GitHub Pages Integration | Purchased `pavithran.tech`, linked to GitHub Pages, enforced HTTPS, handled DNS & CNAME setup errors | [View Details](./achievements/achievement-2-github-profile.md) |
 
 ---
 
 ## 📅 Progress Tracker
 
 Stay tuned — more achievements will be added regularly!
-
